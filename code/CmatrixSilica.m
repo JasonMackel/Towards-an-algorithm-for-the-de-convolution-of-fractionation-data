@@ -1,4 +1,4 @@
-function C = CmatrixSilica()
+efunction C = CmatrixSilica()
 
 %load data
 [LSx, ~] = loadingSilicaLaserData();
