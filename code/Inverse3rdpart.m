@@ -1,4 +1,4 @@
-
+e
 %clear all;
 %Making numerical normal distributions with mu and SD with entire feed in the range
 
