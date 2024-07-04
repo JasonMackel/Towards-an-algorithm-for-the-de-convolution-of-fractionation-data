@@ -1,4 +1,4 @@
-
+e
 
 %Starting time when particles start to elutrate from the system.
 
